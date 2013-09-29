@@ -1,0 +1,12 @@
+c:\users\maksim\documents\visual studio 2012\Projects\Assignment2-WindowsFormClaculator\Assignment2-WindowsFormClaculator\bin\Debug\Assignment2-WindowsFormClaculator.exe.config
+c:\users\maksim\documents\visual studio 2012\Projects\Assignment2-WindowsFormClaculator\Assignment2-WindowsFormClaculator\bin\Debug\Assignment2-WindowsFormClaculator.exe
+c:\users\maksim\documents\visual studio 2012\Projects\Assignment2-WindowsFormClaculator\Assignment2-WindowsFormClaculator\bin\Debug\Assignment2-WindowsFormClaculator.pdb
+c:\users\maksim\documents\visual studio 2012\Projects\Assignment2-WindowsFormClaculator\Assignment2-WindowsFormClaculator\obj\Debug\Assignment2-WindowsFormClaculator.csprojResolveAssemblyReference.cache
+c:\users\maksim\documents\visual studio 2012\Projects\Assignment2-WindowsFormClaculator\Assignment2-WindowsFormClaculator\obj\Debug\Assignment2_WindowsFormClaculator.Form1.resources
+c:\users\maksim\documents\visual studio 2012\Projects\Assignment2-WindowsFormClaculator\Assignment2-WindowsFormClaculator\obj\Debug\Assignment2_WindowsFormClaculator.Properties.Resources.resources
+c:\users\maksim\documents\visual studio 2012\Projects\Assignment2-WindowsFormClaculator\Assignment2-WindowsFormClaculator\obj\Debug\Assignment2-WindowsFormClaculator.csproj.GenerateResource.Cache
+c:\users\maksim\documents\visual studio 2012\Projects\Assignment2-WindowsFormClaculator\Assignment2-WindowsFormClaculator\obj\Debug\Assignment2-WindowsFormClaculator.exe
+c:\users\maksim\documents\visual studio 2012\Projects\Assignment2-WindowsFormClaculator\Assignment2-WindowsFormClaculator\obj\Debug\Assignment2-WindowsFormClaculator.pdb
+C:\Users\maksim\Documents\Visual Studio 2012\Projects\Assignment3-EnhancedWindowsFormClaculator\Assignment2-WindowsFormClaculator\bin\Debug\Assignment2-WindowsFormClaculator.exe.config
+C:\Users\maksim\Documents\Visual Studio 2012\Projects\Assignment3-EnhancedWindowsFormClaculator\Assignment2-WindowsFormClaculator\obj\Debug\Assignment2-WindowsFormClaculator.exe
+C:\Users\maksim\Documents\Visual Studio 2012\Projects\Assignment3-EnhancedWindowsFormClaculator\Assignment2-WindowsFormClaculator\obj\Debug\Assignment2-WindowsFormClaculator.pdb

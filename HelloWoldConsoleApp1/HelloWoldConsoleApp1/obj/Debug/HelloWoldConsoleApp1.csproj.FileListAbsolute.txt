@@ -1,0 +1,6 @@
+c:\users\maksim\documents\visual studio 2012\Projects\HelloWoldConsoleApp1\HelloWoldConsoleApp1\bin\Debug\HelloWoldConsoleApp1.exe.config
+c:\users\maksim\documents\visual studio 2012\Projects\HelloWoldConsoleApp1\HelloWoldConsoleApp1\bin\Debug\HelloWoldConsoleApp1.exe
+c:\users\maksim\documents\visual studio 2012\Projects\HelloWoldConsoleApp1\HelloWoldConsoleApp1\bin\Debug\HelloWoldConsoleApp1.pdb
+c:\users\maksim\documents\visual studio 2012\Projects\HelloWoldConsoleApp1\HelloWoldConsoleApp1\obj\Debug\HelloWoldConsoleApp1.csprojResolveAssemblyReference.cache
+c:\users\maksim\documents\visual studio 2012\Projects\HelloWoldConsoleApp1\HelloWoldConsoleApp1\obj\Debug\HelloWoldConsoleApp1.exe
+c:\users\maksim\documents\visual studio 2012\Projects\HelloWoldConsoleApp1\HelloWoldConsoleApp1\obj\Debug\HelloWoldConsoleApp1.pdb

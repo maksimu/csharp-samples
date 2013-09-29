@@ -1,0 +1,10 @@
+c:\users\maksim\documents\visual studio 2012\Projects\WindowFormSample\WindowFormSample\bin\Debug\WindowFormSample.exe.config
+c:\users\maksim\documents\visual studio 2012\Projects\WindowFormSample\WindowFormSample\obj\Debug\WindowFormSample.csprojResolveAssemblyReference.cache
+c:\users\maksim\documents\visual studio 2012\Projects\WindowFormSample\WindowFormSample\obj\Debug\WindowFormSample.Form1.resources
+c:\users\maksim\documents\visual studio 2012\Projects\WindowFormSample\WindowFormSample\obj\Debug\WindowFormSample.Properties.Resources.resources
+c:\users\maksim\documents\visual studio 2012\Projects\WindowFormSample\WindowFormSample\obj\Debug\WindowFormSample.csproj.GenerateResource.Cache
+c:\users\maksim\documents\visual studio 2012\Projects\WindowFormSample\WindowFormSample\bin\Debug\WindowFormSample.exe
+c:\users\maksim\documents\visual studio 2012\Projects\WindowFormSample\WindowFormSample\bin\Debug\WindowFormSample.pdb
+c:\users\maksim\documents\visual studio 2012\Projects\WindowFormSample\WindowFormSample\obj\Debug\WindowFormSample.exe
+c:\users\maksim\documents\visual studio 2012\Projects\WindowFormSample\WindowFormSample\obj\Debug\WindowFormSample.pdb
+C:\Users\maksim\Documents\Visual Studio 2012\Projects\WindowFormSample\WindowFormSample\obj\Debug\WindowFormSample.FormCloseWindowQuestionair.resources

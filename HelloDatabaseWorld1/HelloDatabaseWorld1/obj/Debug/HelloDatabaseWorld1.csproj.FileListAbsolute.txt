@@ -1,0 +1,6 @@
+c:\users\maksim\documents\visual studio 2012\Projects\HelloDatabaseWorld1\HelloDatabaseWorld1\bin\Debug\HelloDatabaseWorld1.exe.config
+c:\users\maksim\documents\visual studio 2012\Projects\HelloDatabaseWorld1\HelloDatabaseWorld1\obj\Debug\HelloDatabaseWorld1.csprojResolveAssemblyReference.cache
+c:\users\maksim\documents\visual studio 2012\Projects\HelloDatabaseWorld1\HelloDatabaseWorld1\bin\Debug\HelloDatabaseWorld1.exe
+c:\users\maksim\documents\visual studio 2012\Projects\HelloDatabaseWorld1\HelloDatabaseWorld1\bin\Debug\HelloDatabaseWorld1.pdb
+c:\users\maksim\documents\visual studio 2012\Projects\HelloDatabaseWorld1\HelloDatabaseWorld1\obj\Debug\HelloDatabaseWorld1.exe
+c:\users\maksim\documents\visual studio 2012\Projects\HelloDatabaseWorld1\HelloDatabaseWorld1\obj\Debug\HelloDatabaseWorld1.pdb

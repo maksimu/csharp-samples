@@ -1,0 +1,9 @@
+C:\Users\maksim\Documents\Visual Studio 2012\Projects\Assignment3-EnhancedWindowsFormClaculator\Assignment2-WindowsFormClaculator\bin\Debug\Assignment2-WindowsFormClaculator.exe.config
+C:\Users\maksim\Documents\Visual Studio 2012\Projects\Assignment3-EnhancedWindowsFormClaculator\Assignment2-WindowsFormClaculator\bin\Debug\Assignment2-WindowsFormClaculator.exe
+C:\Users\maksim\Documents\Visual Studio 2012\Projects\Assignment3-EnhancedWindowsFormClaculator\Assignment2-WindowsFormClaculator\bin\Debug\Assignment2-WindowsFormClaculator.pdb
+C:\Users\maksim\Documents\Visual Studio 2012\Projects\Assignment3-EnhancedWindowsFormClaculator\Assignment2-WindowsFormClaculator\obj\Debug\Assignment3-EnhancedWindowsFormClaculator.csprojResolveAssemblyReference.cache
+C:\Users\maksim\Documents\Visual Studio 2012\Projects\Assignment3-EnhancedWindowsFormClaculator\Assignment2-WindowsFormClaculator\obj\Debug\Assignment2_WindowsFormClaculator.Form1.resources
+C:\Users\maksim\Documents\Visual Studio 2012\Projects\Assignment3-EnhancedWindowsFormClaculator\Assignment2-WindowsFormClaculator\obj\Debug\Assignment2_WindowsFormClaculator.Properties.Resources.resources
+C:\Users\maksim\Documents\Visual Studio 2012\Projects\Assignment3-EnhancedWindowsFormClaculator\Assignment2-WindowsFormClaculator\obj\Debug\Assignment3-EnhancedWindowsFormClaculator.csproj.GenerateResource.Cache
+C:\Users\maksim\Documents\Visual Studio 2012\Projects\Assignment3-EnhancedWindowsFormClaculator\Assignment2-WindowsFormClaculator\obj\Debug\Assignment2-WindowsFormClaculator.exe
+C:\Users\maksim\Documents\Visual Studio 2012\Projects\Assignment3-EnhancedWindowsFormClaculator\Assignment2-WindowsFormClaculator\obj\Debug\Assignment2-WindowsFormClaculator.pdb
