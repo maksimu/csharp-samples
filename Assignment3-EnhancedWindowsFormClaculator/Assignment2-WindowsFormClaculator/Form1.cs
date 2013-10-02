@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /**
- * Maksim Ustionv
+ * Maksim Ustinov
  * CMPE 285 - Software Engineering Process
  * LAB 3 - Exceptions & Events
  * 10/02/2013
